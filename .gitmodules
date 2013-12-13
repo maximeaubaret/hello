@@ -1,0 +1,3 @@
+[submodule "libhello"]
+	path = libhello
+	url = git://github.com/maximeaubaret/libhello.git
